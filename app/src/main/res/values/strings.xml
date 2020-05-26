@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="guest_name_hint">Guest name</string>
+    <string name="party_size_hint">Party size (max 99)</string>
+    <string name="add_button_text1">ADD</string>
+    <string name="add_button_text2">CANCEL</string>
+    <string name="default_guest_name">[Guest name]</string>
+    <string name="default_party_size">\?</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+
+
+    <string name="pref_color_label">Color</string>
+    <string name="pref_color_label_red">Red</string>
+    <string name="pref_color_label_blue">Blue</string>
+    <string name="pref_color_label_green">Green</string>
+    <string name="pref_color_key" translatable="false">color</string>
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_green_value" translatable="false">green</string>
+</resources>
